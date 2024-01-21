@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "mmm.maadre.dev",
   "resources": {
-    "hash": "sha256-3u2nYXgjde5dyivrvJV8OtzEovk/RDn8dBkSfLxyn90=",
+    "hash": "sha256-EvsajV3af0gam4mUJB50oQQhBZ5wgCkI5ePs/ridiss=",
     "jsModuleNative": {
       "dotnet.native.8.0.1.ahpp78valh.js": "sha256-SGOlISx+3G4kkvpC9Uq3qoPGsnjxGmW61QBev0lyI5U="
     },
@@ -33,7 +33,7 @@
       "Microsoft.FluentUI.AspNetCore.Components.wasm": "sha256-7LMbttLoeXRFTX/dyskx5YObeBbqS8KIn7z0+s1/Ar0=",
       "Microsoft.JSInterop.wasm": "sha256-Uw6u7VSkbKo/0GeCV95ja+drqzK9XH3ingS2CJavB70=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-aCgxiIU+arbpOkgLngl1hBQLocrFL2/t1zUJV8HXOzI=",
-      "mmm.maadre.dev.wasm": "sha256-E3YX51bySIYvRL3gJSqmyCuD18TJF6tb4M1XxBXgRhI=",
+      "mmm.maadre.dev.wasm": "sha256-Iek3kU0v27omzc3I/bG2vhLwO3av1/GwrW/gu8M+jYQ=",
       "System.Collections.Concurrent.wasm": "sha256-q41mVw3T4c62sBhFsV6+EH7j7x/ofjfauY5+h0gw7uI=",
       "System.Collections.wasm": "sha256-K5BowuSZToilSfBllVs10n3uc6xOBMoeBM7KowW5w5E=",
       "System.ComponentModel.Annotations.wasm": "sha256-3EFHTOr/6ls7azBcBZ+wfQDVvhPWWdKT2SQJ0SSsM8U=",
